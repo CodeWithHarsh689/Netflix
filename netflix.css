@@ -1,0 +1,126 @@
+* {
+    color:plum;
+    margin: 0;
+    padding: 0;
+}
+
+.border {
+    border: 2px white solid;
+}
+
+/* header */
+.mainimage {
+    background-image: url("/photos/bckgimg\ netflix.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+.navbar {
+    height: 100px;
+    display: flex;
+    
+    
+}
+
+/*header --- logo*/
+.net-logo {
+    height: 50px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 250px;
+}
+
+.netlogo {
+    height: 50px;
+    background-image: url("/photos/zsp1oa5q.png");
+    background-size: cover;
+}
+
+/*header --- box2*/
+.box-2 {
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    margin-left: 850px;
+}
+
+.lang {
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.signin {
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    color:white;
+    background-color: red;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.lang-icon {
+    height: 50px;
+    width: 50px;
+}
+
+/*herosection*/
+
+.com {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    bottom: 200px;
+    left: 500px;
+}
+
+.edit {
+    font-size: 70px;
+    color: white;
+    font-weight: bolder;
+}
+
+.com2{
+    margin-left: 125px;
+}
+
+.com3{
+    margin-left: 130px;
+}
+
+.com4 {
+    font-size: 25px;
+    color: rgb(213, 217, 220);
+    margin-left: 118px;
+}
+
+.gap {
+    margin-bottom: 20px;
+}
+
+.f-signup span{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.f-signup{
+    margin-left: 160px;
+}
